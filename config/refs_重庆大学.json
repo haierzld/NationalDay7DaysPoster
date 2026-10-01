@@ -1,0 +1,14 @@
+{
+  "subject": "重庆大学",
+  "note": "检索词 = 校名 + 标志性特征；人物一律用空场景/远景，不抓人物特写",
+  "topics": [
+    { "slug": "jiaotong", "query": "重庆大学 A区 老校区 嘉陵江 第一教学楼 青砖 老建筑", "limit": 8 },
+    { "slug": "huxi-lib", "query": "重庆大学 虎溪校区 图书馆 缙湖 云湖 建筑", "limit": 8 },
+    { "slug": "lizhu", "query": "重庆大学 虎溪校区 校门 立柱 广场 标志", "limit": 6 },
+    { "slug": "lab-power", "query": "重庆大学 输变电装备技术全国重点实验室 高电压 实验大厅", "limit": 6 },
+    { "slug": "lab-civil", "query": "重庆大学 土木 结构实验室 反力架 试验 装置", "limit": 6 },
+    { "slug": "yinxing", "query": "重庆大学 银杏大道 校园 风景 实拍", "limit": 6 },
+    { "slug": "tiangj", "query": "重庆大学 虎溪 田径场 体育中心 运动会 航拍", "limit": 6 },
+    { "slug": "kexuezhongxin", "query": "重庆大学 科学中心 科学城校区 建筑 园区", "limit": 6 }
+  ]
+}

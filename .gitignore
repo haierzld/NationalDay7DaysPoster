@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+.env
+outputs/*
+!outputs/.gitkeep
+*.log
+nd7-profile/
+.DS_Store
+
+# 原始素材目录（成品图已整理到 examples/）
+国庆/
+
+# 抓下来的实景照片（体积大且涉版权，开源仓库只保留来源清单 _refs.json）
+assets/**/*.jpg
+assets/**/*.jpeg
+assets/**/*.png
+assets/**/*.webp
+
+# 去水印前的备份
+examples/_backup_wm/
+
+# 被替换掉的旧示例图（仅本地留存对比）
+examples/_old/

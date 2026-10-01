@@ -1,0 +1,15 @@
+{
+  "subject": "上海",
+  "note": "检索词 = 地点 + 标志性特征，命中真实照片的概率更高",
+  "topics": [
+    { "slug": "lujiazui", "query": "上海 陆家嘴 天际线 上海中心大厦 东方明珠 全景", "limit": 8 },
+    { "slug": "yangshan", "query": "洋山深水港 自动化码头 岸桥 集装箱 全景", "limit": 8 },
+    { "slug": "waitan", "query": "上海 外滩 万国建筑群 黄浦江 实景", "limit": 8 },
+    { "slug": "dongzhan", "query": "上海东站 东方枢纽 建设 站房 钢结构", "limit": 6 },
+    { "slug": "youlin", "query": "国产大型邮轮 爱达花城号 外高桥造船 实拍", "limit": 6 },
+    { "slug": "comac", "query": "C919 中国商飞 浦东 总装 飞机 实拍", "limit": 6 },
+    { "slug": "zhangjiang", "query": "张江科学城 上海光源 大科学装置 园区", "limit": 6 },
+    { "slug": "chongming", "query": "崇明岛 湿地 生态岛 长江口 航拍", "limit": 6 },
+    { "slug": "binjiang", "query": "上海 黄浦江 滨江 步道 绿道 实景", "limit": 6 }
+  ]
+}

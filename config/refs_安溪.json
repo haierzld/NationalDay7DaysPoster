@@ -1,0 +1,9 @@
+{
+  "subject": "安溪",
+  "note": "检索词以「地点 + 标志性特征」方式给出，便于命中真实照片；抓取结果落在 assets/安溪/<slug>/",
+  "topics": [
+    { "slug": "wenmiao", "query": "安溪文庙 大成殿 实景", "limit": 8 },
+    { "slug": "qingshuiyan", "query": "安溪清水岩 帝字形 主殿 蓬莱山", "limit": 8 },
+    { "slug": "fengshan", "query": "安溪凤山景区 寺庙群 绿道 凤冠山", "limit": 8 }
+  ]
+}

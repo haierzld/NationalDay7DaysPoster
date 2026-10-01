@@ -1,0 +1,80 @@
+{
+  "subject": "替换为主体名（需与 --subject 完全一致）",
+  "type": "city",
+  "year": 2026,
+  "source": "检索来源与检索日期，便于复核",
+  "days": [
+    {
+      "day": 1,
+      "title": "当日金色书法主标题（可选，缺省用全局默认主标题）",
+      "signature": "2026.10.01",
+      "signature2": "庆祝中华人民共和国成立77周年",
+      "events": [
+        { "title": "第 1 个素材", "scene": "一句话写清主体、环境、光线、质感（30-60 字）" }
+      ]
+    },
+    {
+      "day": 2,
+      "signature": "10.02 祝福祖国",
+      "events": [
+        { "title": "第 2 个素材", "scene": "..." },
+        { "title": "第 3 个素材", "scene": "..." }
+      ]
+    },
+    {
+      "day": 3,
+      "signature": "10.03 祝福祖国",
+      "events": [
+        { "title": "第 4 个素材", "scene": "..." },
+        { "title": "第 5 个素材", "scene": "..." },
+        { "title": "第 6 个素材", "scene": "..." }
+      ]
+    },
+    {
+      "day": 4,
+      "signature": "10.04 祝福祖国",
+      "events": [
+        { "title": "第 7 个素材", "scene": "..." },
+        { "title": "第 8 个素材", "scene": "..." },
+        { "title": "第 9 个素材", "scene": "..." },
+        { "title": "第 10 个素材", "scene": "..." }
+      ]
+    },
+    {
+      "day": 5,
+      "signature": "10.05 祝福祖国",
+      "events": [
+        { "title": "第 11 个素材", "scene": "..." },
+        { "title": "第 12 个素材", "scene": "..." },
+        { "title": "第 13 个素材", "scene": "..." },
+        { "title": "第 14 个素材", "scene": "..." },
+        { "title": "第 15 个素材", "scene": "..." }
+      ]
+    },
+    {
+      "day": 6,
+      "signature": "10.06 祝福祖国",
+      "events": [
+        { "title": "第 16 个素材", "scene": "..." },
+        { "title": "第 17 个素材", "scene": "..." },
+        { "title": "第 18 个素材", "scene": "..." },
+        { "title": "第 19 个素材", "scene": "..." },
+        { "title": "第 20 个素材", "scene": "..." },
+        { "title": "第 21 个素材", "scene": "..." }
+      ]
+    },
+    {
+      "day": 7,
+      "signature": "10.07 祝福祖国",
+      "events": [
+        { "title": "第 22 个素材", "scene": "..." },
+        { "title": "第 23 个素材", "scene": "..." },
+        { "title": "第 24 个素材", "scene": "..." },
+        { "title": "第 25 个素材", "scene": "..." },
+        { "title": "第 26 个素材", "scene": "..." },
+        { "title": "第 27 个素材", "scene": "..." },
+        { "title": "第 28 个素材", "scene": "..." }
+      ]
+    }
+  ]
+}
